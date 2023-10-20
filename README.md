@@ -9,4 +9,3 @@ Solution:
 
 The solution relies on a popular algorithm. Online research is encouraged.
 Use object oriented design with the language you like. Write at least 1 test for the happy path.
-# AMMCO-SIREN-Technical-Assignment
